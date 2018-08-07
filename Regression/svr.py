@@ -1,4 +1,6 @@
-
+"""
+A ML model built on the top of Support Vector Regressor in order to predict Salary of an employee on the basis of his Position and Level 
+"""
 # base import
 import numpy as np # matrix maths 
 import pandas as pd # for data handeling 

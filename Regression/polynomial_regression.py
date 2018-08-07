@@ -1,3 +1,6 @@
+"""
+A ML model built on the top of Polynomial Regressor in order to predict Salary of an employee on the basis of his Position and Level 
+"""
 # base imports 
 import numpy as np # for matrix maths 
 import pandas as pd # for data handeling 
