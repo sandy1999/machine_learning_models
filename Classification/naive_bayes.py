@@ -1,3 +1,7 @@
+"""
+A ML model built on the top of Naive Bayes in order to predict wether a person will buy or not a product from Social Network Ads 
+"""
+
 # base import 
 import numpy as np # matrix maths 
 import pandas as pd # data handeling 

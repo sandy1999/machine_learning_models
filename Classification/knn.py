@@ -1,3 +1,7 @@
+"""
+A ML model built on the top of K-Nearest Neighbor in order to predict wether a person will buy or not a product from Social Network Ads 
+"""
+
 # base import 
 import numpy as np  # for matrix maths
 import pandas as pd # for data handeling 

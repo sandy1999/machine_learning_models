@@ -1,3 +1,6 @@
+"""
+A ML model built on the top of Logistic Regression in order to predict wether a person will buy or not a product from Social Network Ads 
+"""
 
 # base imports 
 import numpy as np # matrix maths 
