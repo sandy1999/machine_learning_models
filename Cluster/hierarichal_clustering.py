@@ -1,3 +1,7 @@
+"""
+A Machine Learning Hierarichal Cluster model template to make clusters of people spending in mall  
+"""
+
 # base import 
 import numpy as np # matrix maths 
 import pandas as pd # data handeling 
